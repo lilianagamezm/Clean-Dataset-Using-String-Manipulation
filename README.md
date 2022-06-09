@@ -15,7 +15,7 @@ The cleaned dataset is verified and saved in CSV format. The script performs the
 
 •	Verify the clean process 
 
-Real-world cases include data cleaning for natural language processing and dataset analysis. 
+Real-world scenarios include data cleaning for natural language processing and dataset analysis, detecting spaces that are not easy to recognize.
 
 The results are accessible in several ways: using a Jupyter notebook built-in to print the outputs and export a spreadsheet that is open in Microsoft Excel, SQL, and MySQL databases.
 

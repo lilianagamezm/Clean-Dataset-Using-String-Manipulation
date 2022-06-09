@@ -1,4 +1,21 @@
 # Clean-Dataset-Using-String-Manipulation
-The python script cleans the data source using string methods to remove blanks and special characters and standardize text using case conversion.
+The python script detects spaces of strings and removes any special characters (non-alphanumeric), strips blanks, and transforms words to title cases. 
 
-TabulatedData.csv is the source, and TabulatedData_cleaned.csv is the data after removing characters and performing standardization.
+The cleaned dataset is verified and saved in CSV format. The script performs the below operations:
+
+•	String format transformation
+
+•	Calculate total words with spaces
+
+•	Search the position of spaces at each word
+
+•	Clean dataset (remove special characters and blanks, and convert text to title case) using the CleanDataSet function
+
+•	Output the dataset as a CSV file
+
+•	Verify the clean process 
+
+Real-world cases include data cleaning for natural language processing and dataset analysis. 
+
+The results are accessible in several ways: using a Jupyter notebook built-in to print the outputs and export a spreadsheet that is open in Microsoft Excel, SQL, and MySQL databases.
+

@@ -9,7 +9,7 @@ The cleaned dataset is verified and saved in CSV format. The script performs the
 
 •	Search the position of spaces at each word
 
-•	Clean dataset (remove special characters and blanks, and convert text to title case) using the CleanDataSet function
+•	Clean dataset (remove special characters and blanks, and convert text to title case) using the "CleanDataSet" function
 
 •	Output the dataset as a CSV file
 
